@@ -4,10 +4,10 @@
 
 ## ScreenShots of these application
 
-<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/screenshots/login_and_registration_Selection_Screen.jpg" />
-<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/screenshots/Login_screen.jpg" />
-<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/screenshots/Splash_Screen.jpg" />
-<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/screenshots/signup_with_buyer.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/login_and_registration_Selection_Screen.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/Login_screen.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/Splash_Screen.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/signup_with_buyer.jpg" />
 <img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce1.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
 <img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce2.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
 <img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce3.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
@@ -25,7 +25,9 @@
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/dokanapp_ecommerce/blob/main/screenshots/4.jpg" />
 
 
+
 # category_product_list
+
 
 ## used packages
 
