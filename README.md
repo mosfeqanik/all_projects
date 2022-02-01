@@ -8,6 +8,12 @@
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/screenshots/Login_screen.jpg" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/screenshots/Splash_Screen.jpg" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/screenshots/signup_with_buyer.jpg" />
+<img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce1.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
+<img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce2.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
+<img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce3.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
+<img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce4.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
+<img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce5.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
+<img width="300" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce6.gif" height="666.5" alt="Eccomerce Screenplay">&nbsp;
 
 
 # dokanapp_wedev_ecomerce
