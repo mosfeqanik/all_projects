@@ -3,6 +3,29 @@
 ## Used features
 
 ## ScreenShots of these application
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/shodai_ecommerce_getx/blob/main/screenshots/Screenshot1.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/shodai_ecommerce_getx/blob/main/screenshots/Screenshot2.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/shodai_ecommerce_getx/blob/main/screenshots/Screenshot_3.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/shodai_ecommerce_getx/blob/main/screenshots/Screenshot_4.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/shodai_ecommerce_getx/blob/main/screenshots/Screenshot_6.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/shodai_ecommerce_getx/blob/main/screenshots/Screenshot_7.jpg" />
+
+
+##   
+
+
+<img align="left" alt="Splash_page" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/1.jpeg" />
+<img align="left" alt="homepage" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/homepage.jpeg" />
+<img align="left" alt="companylist" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/companylist.jpeg" />
+<img align="left" alt="drawer" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/drawer.jpeg" />
+<img align="left" alt="Login_page" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/Login_page.jpeg" />
+<img align="left" alt="category_list" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/category_list.jpeg" />
+<img align="left" alt="reset_page" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/reset_page.jpeg" />
+<img align="left" alt="sign_up_page" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/sign_up_page.jpeg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/ishop/blob/main/screenshots/verify_page.jpeg" />
+
+
+##   
 
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/login_and_registration_Selection_Screen.jpg" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/Login_screen.jpg" />
@@ -17,7 +40,6 @@
 
 # dokanapp_wedev_ecomerce
 
-#screenshots
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/dokanapp_ecommerce/blob/main/screenshots/1.jpg" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/dokanapp_ecommerce/blob/main/screenshots/2.jpg" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/dokanapp_ecommerce/blob/main/screenshots/3.jpg" />
