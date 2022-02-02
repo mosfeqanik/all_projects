@@ -1,6 +1,6 @@
-# flutter E-commerce application wowsell 
+# flutter Projects by Md Mosfeq Anik	 
 
-## Used features
+## Contract mail  mosfeqanik01@gmail.com
 
 ## ScreenShots of these application
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/shodai_ecommerce_getx/blob/main/screenshots/Screenshot1.jpg" />
