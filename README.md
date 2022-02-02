@@ -30,12 +30,12 @@
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/login_and_registration_Selection_Screen.jpg" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/Login_screen.jpg" />
 <img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/screenshots/Splash_Screen.jpg" />
-<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce1.gif" height="666.5" alt="Eccomerce Screenplay">;
-<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce2.gif" height="666.5" alt="Eccomerce Screenplay">;
-<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce3.gif" height="666.5" alt="Eccomerce Screenplay">;
-<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce4.gif" height="666.5" alt="Eccomerce Screenplay">;
-<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce5.gif" height="666.5" alt="Eccomerce Screenplay">;
-<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce6.gif" height="666.5" alt="Eccomerce Screenplay">;
+<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce1.gif"  alt="Eccomerce Screenplay">;
+<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce2.gif"  alt="Eccomerce Screenplay">;
+<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce3.gif"  alt="Eccomerce Screenplay">;
+<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce4.gif"  alt="Eccomerce Screenplay">;
+<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce5.gif"  alt="Eccomerce Screenplay">;
+<img width="360px" src="https://github.com/mosfeqanik/Ecommerce-firebase/blob/main/assets/eccomerce6.gif"  alt="Eccomerce Screenplay">;
 
 
 # dokanapp_wedev_ecomerce
