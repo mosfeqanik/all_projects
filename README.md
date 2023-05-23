@@ -1,6 +1,6 @@
 # Flutter Projects by Md Mosfeq Anik	 
 
-## Contract  [FIVERR](https://fiverr.com/mosfeqanik_)
+
 
 ## ScreenShots of these application
 <br /> 
